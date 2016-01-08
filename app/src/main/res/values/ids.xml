@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="zxing_btn" type="id">false</item>
+    <item name="touch_btn" type="id">false</item>
+    <item name="swip_listview" type="id">false</item>
+    <item name="iv_icon" type="id">false</item>
+    <item name="tv_name" type="id">false</item>
+    <item name="water_drop" type="id">false</item>
+
+</resources>
